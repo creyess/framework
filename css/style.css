@@ -1,0 +1,58 @@
+.img-fluid{
+	max-width: 100%;
+}
+.perfil h3,
+.perfil p{
+	margin: 0;
+}
+.perfil h3{
+	font-size: 16px;
+	color: #333;
+}
+.perfil p{
+	font-size: 12px;
+	color: #666;
+}
+.panel .list i{
+	color: #474B5E;
+	font-size: 20px !important;
+}
+.panel .list .item-title{
+	font-size: 14px;
+}
+
+.p0{
+	padding: 0 !important; 
+}
+.m0{
+	margin: 0 !important;
+}
+.cafetano h4{
+	font-size: 24px;
+	margin: 2px 0;
+}
+.cafetano i{
+	color: #fed430;
+	font-size: 12px;
+}
+.cafetano .color-grey{
+	color: #787878;
+}
+.cafetano .lugar{
+	font-size: 14px;
+	font-weight: 700;
+	color: #272727;
+}
+.cafetano .horario{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.cafetano .divider{
+	border-top: 1px solid #eee;
+	padding: 10px 0;
+}
+.cafetano .card-footer .a{
+	color: #6200ee !important;
+	text-transform: uppercase;
+	font-weight: 600;
+}
